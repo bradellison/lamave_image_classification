@@ -1,0 +1,9 @@
+/input/*
+/output/*
+
+/dist/*
+
+/build/*
+/venv/*
+
+/saveData.pickle

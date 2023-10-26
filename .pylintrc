@@ -1,0 +1,9 @@
+[MASTER]
+ignore = .git, __pycache__
+; load-plugins = pylint_django
+
+[MESSAGES CONTROL]
+disable = C0330, C0326, C0103, C0114, C0116, C0301, C0303
+
+[FORMAT]
+max-line-length = 120
